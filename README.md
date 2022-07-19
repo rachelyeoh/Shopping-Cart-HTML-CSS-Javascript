@@ -3,6 +3,10 @@
 Simple Shopping Cart using local storage written in vanilla HTML, CSS and Javascript
 This is completed as part of Generation Australia Technical Coding Challenge.
 
+## Screenshot:
+
+![Screenshot 1](./images/appscreenshot1.jpg) ![Screenshot 2](./images/appscreenshot2.jpg)
+
 ## Instructions:
 
 Create a simple shopping cart as a web app. You may use JavaScript libraries but they are not a requirement, HTML/CSS and Vanilla JS are sufficient.
