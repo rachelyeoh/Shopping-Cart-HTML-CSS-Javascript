@@ -47,4 +47,4 @@ Create a simple shopping cart as a web app. You may use JavaScript libraries but
 6. User is able to delete any product from the cart and will be removed visually and from local storage. Total price will adjust accordingly.
 7. User is able to modify the quantity and all relevant information will update.
 
-In addition to meeting requirements, this web app is also mobile responsive and has an added feature of light/dark mode.
+In addition to meeting requirements, this web app is also mobile responsive and has an added feature of light/dark mode, and display random products when page reloads.
