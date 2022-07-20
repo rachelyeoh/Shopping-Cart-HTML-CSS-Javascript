@@ -562,13 +562,9 @@ main {
         display: none;
         flex: 0.2;
     }
-    
-    .nav-menu a {
-        font-size: 1rem;
-    }
 
     .logo {
-        flex: 0.3;
+        flex: 0.4;
         font-size: 4rem;
     }
 
@@ -579,15 +575,15 @@ main {
     .fa-bars {
         display: flex;
         position: relative;
-        left: 7rem;
+        left: 4rem;
         font-size: 2.5rem !important;
     }
 
     .nav-menu-mobile {
         display: none;
         position: absolute;
-        left: 60%;
-        top: 15%;
+        left: 55%;
+        top: 10%;
         z-index: 1;
         background: rgba(255, 255, 255, 0.9);
         height: 16rem;
@@ -608,7 +604,7 @@ main {
         display: none;
         position: absolute;
         left: 62%;
-        top: 45%;
+        top: 40%;
         z-index: 1;
     }
 
