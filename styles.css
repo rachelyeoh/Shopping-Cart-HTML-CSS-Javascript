@@ -66,6 +66,9 @@ button:hover {
 
 .dark i:not(.fa-facebook,.fa-twitter,.fa-instagram,.fa-circle-xmark) {
     color: var(--container-70-opacity);
+}
+
+.dark .fa-sun {
     font-size: 0.9rem;
 }
 
@@ -603,8 +606,8 @@ main {
     .nav-right {
         display: none;
         position: absolute;
-        left: 62%;
-        top: 40%;
+        left: 58%;
+        top: 17.5rem;
         z-index: 1;
     }
 
