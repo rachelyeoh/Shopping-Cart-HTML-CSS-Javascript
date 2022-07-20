@@ -587,7 +587,7 @@ main {
         display: none;
         position: absolute;
         left: 60%;
-        top: 10%;
+        top: 15%;
         z-index: 1;
         background: rgba(255, 255, 255, 0.9);
         height: 16rem;
@@ -608,7 +608,7 @@ main {
         display: none;
         position: absolute;
         left: 62%;
-        top: 40%;
+        top: 45%;
         z-index: 1;
     }
 
