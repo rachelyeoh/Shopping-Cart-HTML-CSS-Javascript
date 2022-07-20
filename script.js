@@ -337,7 +337,7 @@ const displayRedDot = () => {
 };
 
 window.onload = () => {
-    if(localStorage.length > 0) {
+    if(localStorage.getItem("cart").length > 0) {
         cart = JSON.parse(localStorage.getItem("cart"))
         cart.map(item => {
             cartModalHistory(item.id, item.quantity)
