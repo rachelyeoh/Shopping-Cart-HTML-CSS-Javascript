@@ -34,8 +34,9 @@ Create a simple shopping cart as a web app. You may use JavaScript libraries but
 
 ## Instructions to run app locally
 
-1. Open the folder that contains the Shopping Cart HTML, CSS and JS file
-2. Double click on the 'index.html' file
+1. git clone https://github.com/rachelyeoh/Shopping-Cart-HTML-CSS-Javascript.git **OR** Download ZIP
+2. Extract ZIP and/or open the folder that contains the Shopping Cart HTML, CSS and JS files in local machine
+3. Double click on the 'index.html' file
 
 ## How requirements are met
 
